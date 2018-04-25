@@ -75,11 +75,11 @@ ul li{
 }
 
 .navigation ul li a:hover{
-	color:#999999;
+	color:#000000;
 }
 
 .navigation ul li a.active{
-	color:#999999;
+	color:#000000;
 }
 
 .bdr, .pdg{
